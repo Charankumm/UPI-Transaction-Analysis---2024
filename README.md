@@ -1,4 +1,4 @@
-# 💸 Transaction UPI Dashboard
+# 💸 UPI Transactions Dashboard
 
 This Power BI dashboard provides a comprehensive analysis of Unified Payments Interface (UPI) transaction trends, user behavior, and financial insights across various platforms, timeframes, and locations.
 
