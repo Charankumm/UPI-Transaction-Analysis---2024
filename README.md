@@ -7,10 +7,12 @@ This Power BI dashboard provides a comprehensive analysis of Unified Payments In
 The **Transaction UPI Dashboard** enables users to:
 
 - Track UPI transaction volumes and values
-- Analyze trends over time (daily, monthly, yearly)
 - Compare transactions by banks, apps, and user types
 - Evaluate regional usage patterns
 - Identify peak usage periods and high-performing UPI apps
+- State Transaction Analysis
+- Overall Transaction Analysis
+- Number of Successfull Payments and Unsuccessfull Payments
 
 ## 🛠️ Built With
 
@@ -21,7 +23,10 @@ The **Transaction UPI Dashboard** enables users to:
   - Bar/column charts
   - Pie charts
   - KPI indicators
-  - Maps (if included)
+  - Maps
+  - Funnel Chart
+  - Matrix & Tables
+  - Cards
 
 ## 📂 File Contents
 
@@ -31,7 +36,6 @@ The **Transaction UPI Dashboard** enables users to:
 
 - **Transaction Summary:** Total UPI payments and their value
 - **Time-Series Insights:** Year-over-year and month-over-month growth
-- **Platform Analysis:** Breakdown by UPI apps like Google Pay, PhonePe, Paytm, etc.
 - **Bank-wise Insights:** Transaction volume and values by associated banks
 - **Demographic Insights (If applicable):** Usage by region, age, or income segment
 - **Interactive Filtering:** Slicers and filters for time period, bank, or region
